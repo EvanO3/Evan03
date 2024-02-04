@@ -1,4 +1,4 @@
-# Evano3
+# EvanO3
 
 # 💫 About Me:
 I am an ambitious Information Technology student<br>fueled by a strong passion for coding. my goal is to excel as a dynamic full-stack developer,tackling challanges head-onInovating to create impactful web applications<br>that resonate long after deployment<br><br>My academic background equps me with a solid foundation in programming languages and software development methodologies. However, it is my hands-on experience and commitment to continuous learning that sets me apart. through internships and personal projects, I have honed my coding abilities and gained<br>practical insights into building robust and scalable applications
